@@ -32,7 +32,6 @@ function iLoveTheBeatles (num) {
     do { 
   
     differentArray[num] = "I love the Beatles!"
-  
     num++;
       
     } while (num < 15);
