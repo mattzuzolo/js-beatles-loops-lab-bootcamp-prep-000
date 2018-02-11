@@ -14,10 +14,10 @@ function johnLennonFacts (arrayFacts) {
   
   var n = 0;
   
-  while (n++ < arrayFacts.length) {
+  while (n < arrayFacts.length) {
     
     arrayFacts[n] += "!!!"
-    n;
+    n++;
   }
   
   return arrayFacts;
