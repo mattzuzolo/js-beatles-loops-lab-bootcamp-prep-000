@@ -27,15 +27,15 @@ function johnLennonFacts (arrayFacts) {
 
 function iLoveTheBeatles (num) {
   
-  var newArray = [];
+  var differentArray = [];
   
     do { 
   
-    newArray[num] = "I love the Beatles!"
+    differentArray[num] = "I love the Beatles!"
   
     num++;
       
     } while (num < 15);
   
-  return newArray;
+  return differentArray;
 }
