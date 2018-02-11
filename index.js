@@ -27,6 +27,8 @@ function johnLennonFacts (arrayFacts) {
 
 function iLoveTheBeatles (num) {
   
+  console.log(" ")
+  
   var differentArray = [];
   
     do { 
