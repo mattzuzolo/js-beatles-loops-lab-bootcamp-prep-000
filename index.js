@@ -42,7 +42,7 @@ function iLoveTheBeatles (num) {
       
     } while (num < 15);
     
-      console.log("Do loop terminated")
+      console.log(`Do loop termianted ${num} time(s)`)
   
   return differentArray;
 }
