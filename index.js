@@ -33,7 +33,7 @@ function iLoveTheBeatles (num) {
   
     do { 
   
-    totallyNewArray[] = "I love the Beatles!"
+    totallyNewArray.push("I love the Beatles!");
     num++;
       
     } while (num < 15);
