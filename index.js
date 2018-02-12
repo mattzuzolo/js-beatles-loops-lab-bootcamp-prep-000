@@ -35,7 +35,7 @@ function iLoveTheBeatles (num) {
   
     do { 
       
-        console.log("Do loop executed")
+        console.log(`Do loop executed ${num} time(s)`)
   
     differentArray[num] = "I love the Beatles!"
     num++;
