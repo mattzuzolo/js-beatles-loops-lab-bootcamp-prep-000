@@ -29,7 +29,7 @@ function johnLennonFacts (arrayFacts) {
 
 function iLoveTheBeatles (num) {
   
-  var differentArray = [];
+  var totallyNewArray = [];
   
     do { 
   
