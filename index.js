@@ -1,4 +1,3 @@
-/*
 
 function theBeatlesPlay (arrayMusicians, arrayInstruments) {
 
@@ -23,9 +22,6 @@ function johnLennonFacts (arrayFacts) {
   
   return arrayFacts;
 }
-
-*/
-
 
 function iLoveTheBeatles (num) {
   
