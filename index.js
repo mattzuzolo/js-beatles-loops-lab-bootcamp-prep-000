@@ -1,3 +1,5 @@
+/*
+
 function theBeatlesPlay (arrayMusicians, arrayInstruments) {
 
   var myArray = [];
@@ -22,7 +24,7 @@ function johnLennonFacts (arrayFacts) {
   return arrayFacts;
 }
 
-
+*/
 
 
 function iLoveTheBeatles (num) {
