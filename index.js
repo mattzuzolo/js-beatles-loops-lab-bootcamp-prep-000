@@ -29,22 +29,14 @@ function johnLennonFacts (arrayFacts) {
 
 function iLoveTheBeatles (num) {
   
-  console.log("function executed ")
-  
   var differentArray = [];
   
     do { 
-      
-        console.log(`Do loop executed ${num} time(s)`)
   
     differentArray[num] = "I love the Beatles!"
     num++;
       
     } while (num < 15);
-    
-      console.log(`Do loop termianted ${num} time(s)`)
   
   return differentArray;
 }
-
-  console.log("I love the beatles function termianted")
